@@ -2,12 +2,12 @@
 
 This project demonstrates a simple factorial python code with documentation format
 
+
 ## Getting Started
 
 There are three compute functions and a benchmark function with hard coded 
 value.  There is a defined starting point, whereby is "if __name__ == '__main__':"
   
-
 ### Prerequisites
 
 You require to have python development environment to execute the code. 
@@ -15,6 +15,7 @@ You require to have python development environment to execute the code.
 ```
 Either Python Version 2 or 3
 ```
+
 
 ## Executing 
 
@@ -31,6 +32,12 @@ chmod +x t1_factorial.py
 ./t1_factorial.py
 ```
 
+
+## References
+
+- [tutorialpoint](https://www.tutorialspoint.com/git/git_basic_concepts.htm)
+- [atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+
 ## Authors
 
-* **KK Yong** - *Initial work* - [Koodaus](https://github.com/kehkok)
+**KK Yong** - *Initial work* - [Koodaus](https://github.com/kehkok)
