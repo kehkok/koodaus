@@ -34,7 +34,7 @@ This project is licensed under the MIT License - see the  [LICENSE.md]
 
 ## Acknowledgments
 
-* “We salute the coders, designers, and programmers already hard at work at  
+* “We salute the coders, designers, and programmers already hard at work at 
 their desks, and we encourage every student who can’t decide whether to take 
 that computer science class to give it a try.” — Michael Bloomberg. Former 
 Mayor, New York City
