@@ -1,4 +1,4 @@
-# Simple factorial Project 
+# Simple Factorial Project 
 
 This project demonstrates a simple factorial python code with documentation format
 
