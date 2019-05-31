@@ -23,7 +23,7 @@ Start exploring to the "tutorial" folder
 
 ## Authors
 
-* **KK Yong** - *Initial work* - [koodaus](https://github.com/kehkok)
+**KK Yong** - *Initial work* - [koodaus](https://github.com/kehkok)
 
 
 ## License
