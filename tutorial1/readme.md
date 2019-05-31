@@ -33,11 +33,6 @@ chmod +x t1_factorial.py
 ```
 
 
-## References
-
-- [tutorialpoint](https://www.tutorialspoint.com/git/git_basic_concepts.htm)
-- [atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
-
 ## Authors
 
 **KK Yong** - *Initial work* - [Koodaus](https://github.com/kehkok)

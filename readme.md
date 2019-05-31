@@ -21,6 +21,13 @@ Either Python Version 2 or 3
 Start exploring to the "tutorial" folder
 
 
+## References
+
+- [tutorialpoint](https://www.tutorialspoint.com/git/git_basic_concepts.htm)
+- [atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+- [MarkDown](https://guides.github.com/features/mastering-markdown/)
+
+
 ## Authors
 
 **KK Yong** - *Initial work* - [koodaus](https://github.com/kehkok)
