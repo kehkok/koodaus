@@ -21,6 +21,7 @@ def factorial(n):
     else: 
         return float(n) * factorial(n-1) 
 
+
 def exp_factorial(n):
     """Compute exponential of factorial
         
@@ -35,7 +36,8 @@ def exp_factorial(n):
     """
     return [1.0/factorial(i) for i in range(n)] 
 
-def taylor_sin(n):
+
+def sin_factorial(n):
     """Compute taylor series of sin for a list
         
         Parameters
@@ -55,6 +57,7 @@ def taylor_sin(n):
            res.append(0.0) 
     return res 
 
+
 def benchmark():
     """Benchmark function
        
@@ -62,11 +65,21 @@ def benchmark():
        -------
        None
     """
-    taylor_exp(500) 
-    taylor_sin(500) 
+    sum_ef = sum(exp_factorial(500))
+
+    print("Sum of exponential factorial is {:.6f}.".format(sum_ef))
+
+    sum_sin = sum(sin_factorial(500))
+
+    print("Sum of sin factorial is {:.6f}.".format(sum_sin))
+
 
 if __name__ == '__main__':
     """Main function
         
     """
-    benchmark() 
+    print ("Start...")
+
+    benchmark()
+
+    print ("End...")
