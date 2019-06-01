@@ -1,11 +1,11 @@
-# Simple Python Project 
+# Simple Python & Git Project 
 
-This project is a simple python tutorial 
+This project is a simple python with git tutorial 
 
 
 ## Getting Started
 
-Just need python environment 
+Just need python and git environment 
   
 
 ### Prerequisites
@@ -23,10 +23,15 @@ Start exploring to the "tutorial" folder
 
 ## References
 
-- [tutorialpoint](https://www.tutorialspoint.com/git/git_basic_concepts.htm)
-- [atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
-- [github](https://guides.github.com/activities/hello-world/)
-- [MarkDown](https://guides.github.com/features/mastering-markdown/)
+- Naming Convention
+  - [Python Pep 8](https://www.python.org/dev/peps/pep-0008/)
+  - [Semantic Version](https://semver.org/spec/v1.0.0.html#tagging-specification-semvertag) 
+- Git Tutorial
+  - [tutorialpoint](https://www.tutorialspoint.com/git/git_basic_concepts.htm)
+  - [atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+  - [github](https://guides.github.com/activities/hello-world/)
+- MarkDown
+  - [Github MarkDown Guide](https://guides.github.com/features/mastering-markdown/)
 
 
 ## Authors
@@ -46,7 +51,3 @@ for details.
 their desks, and we encourage every student who can’t decide whether to take 
 that computer science class to give it a try.” — Michael Bloomberg. Former 
 Mayor, New York City
-
-
-
-
