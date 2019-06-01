@@ -3,6 +3,8 @@ This module consists of basic factorial, exponential factorial and taylor
 series of sin functions
 """
 
+import math
+
 
 def factorial(n):
     """Compute basic factorial function
@@ -59,6 +61,19 @@ def sin_factorial(n):
 
 
 def func_cos(x, n):
+    """Estimate the value of cos(x) using a Taylor Series
+
+        Parameters
+        ----------
+        x  : integer
+        Specifies the number of x value of cos function
+        n  : integer
+        Specifies the number to be taylor of sin
+
+        Returns
+        -------
+        Estimate of factorial of n for cox(x) value
+    """
     cos_approx = 0
     for i in range(n):
         coef = (-1)**i
@@ -83,6 +98,8 @@ def benchmark():
     sum_sin = sum(sin_factorial(500))
 
     print("Sum of sin factorial is {:.6f}.".format(sum_sin))
+
+    print("Estimated of cos(x) value is {:.3f}".format(func_cos(5, 3)))
 
 
 if __name__ == '__main__':
