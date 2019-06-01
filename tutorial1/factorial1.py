@@ -79,7 +79,7 @@ def func_cos(x, n):
         coef = (-1)**i
         num = x**(2*i)
         denom = math.factorial(2*i)
-        cos_approx += ( coef ) * ( (num)/(denom) )
+        cos_approx += coef * (num/denom)
     
     return cos_approx
 
