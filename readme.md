@@ -23,6 +23,14 @@ Start exploring to the "tutorial" folder
 
 ## References
 
+- For PyDeveloper
+  - [Cookiecutter Project Template](https://cookiecutter.readthedocs.io/en/latest/)
+  - [Tox: Automation Project](https://tox.readthedocs.io/en/latest/)
+  - [pytest: Helps you write better program](https://docs.pytest.org/en/latest/)
+  - [Flake8: Py Style Tooling Guide Enforcement](https://docs.pytest.org/en/latest/)
+  - [Black: Py Code Formatter](https://pypi.org/project/black/)
+  - [isort: sort yr py import](https://pypi.org/project/isort/)
+  - [pretier: Opinionted Code Formatter](https://github.com/prettier/prettier)  
 - Naming Convention
   - [Python Pep 8](https://www.python.org/dev/peps/pep-0008/)
   - [Semantic Version](https://semver.org/spec/v1.0.0.html#tagging-specification-semvertag) 
