@@ -32,6 +32,7 @@ Start exploring to the "tutorial" folder
   - [isort: sort yr py import](https://pypi.org/project/isort/)
   - [pretier: Opinionted Code Formatter](https://github.com/prettier/prettier)  
 - Naming Convention
+  - [Documenting Python Code](https://realpython.com/documenting-python-code/)
   - [Python Pep 8](https://www.python.org/dev/peps/pep-0008/)
   - [Semantic Version](https://semver.org/spec/v1.0.0.html#tagging-specification-semvertag) 
 - Git Tutorial
